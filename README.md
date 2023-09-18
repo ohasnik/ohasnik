@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ondhas
 - 👀 I’m interested in chemistry and programming
-- 🌱 I’m currently learning NumPy,Pandas, SciPy And Matplotlib
+- 🌱 I’m currently learning NumPy,Pandas, SciPy and Matplotlib
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
